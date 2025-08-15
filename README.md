@@ -1,4 +1,4 @@
-https://github.com/<Moiste>/<ci-cd-practice>/actions/workflows/<ci.yml>/badge.svg
+![Badge](https://github.com/Moiste/ci-cd-practice/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-typescript-starter (Notely)
 
