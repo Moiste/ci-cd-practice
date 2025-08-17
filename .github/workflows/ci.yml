@@ -45,6 +45,3 @@ jobs:
       
       - name: Lint Check
         run: npm run lint
-
-      - name: Format Write
-        run: npm run format:write
